@@ -7,3 +7,5 @@ I developed a model with convolutional layers, an LSTM layer, and fully connecte
 The model developed by this code achieved about a 96% accuracy after being trained for 25 epochs.
 
 For more information on the implementation, the theory applied, and techniques used to combat overfitting, please see ```Deep_Learning_Final_Project_Report.pdf```.
+
+_Note: the ```README.txt``` file in this directory contains more information about the project, but was written as part of the project submission, and therefore most of the information will not apply to someone viewing this repository._
