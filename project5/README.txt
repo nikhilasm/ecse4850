@@ -28,7 +28,7 @@ model. Here are the steps necessary to run the program:
    							path to the testing data set. The data file must
    							be a .npy file that stores a 5-D tensor of video
    							data:
-   							  num_samples X frames X height X width X channels
+   								num_samples X frames X height X width X channels
    							This data should be non-normalized, i.e. all values
    							should be integers in the range [0, 255].
 
